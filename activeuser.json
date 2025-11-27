@@ -11,7 +11,7 @@
         "username": "monu",
         "password": "nunu",
         "expirydate": "15-06-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
